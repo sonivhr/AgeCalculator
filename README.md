@@ -2,4 +2,4 @@
 
 # Demo
 
-<img src="art/AgeCalculatorDemoArt.gif" width="100%">
+<img src="art/AgeCalculatorDemo.gif" width="100%">
