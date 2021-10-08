@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+
+    <!-- View hints -->
+    <string name="hint_edt_first_name">Enter first Name</string>
+    <string name="hint_edt_last_name">Enter last Name</string>
+    <string name="hint_edt_date_of_birth">Enter date of birth</string>
+
+    <!-- View text -->
+    <string name="label_age_calculator">Age calculator</string>
+    <string name="btn_calculate_age">Calculate age</string>
+    <string name="label_first_name">First Name:</string>
+    <string name="label_last_name">Last Name:</string>
+    <string name="label_age">Age:</string>
+    <string name="value_age">Age:</string>
+
+    <!-- Error text -->
+    <string name="error_field_required">Required field</string>
+    <string name="error_date_of_birth_required">Date of birth is required</string>
+
+</resources>

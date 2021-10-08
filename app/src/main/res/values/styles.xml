@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="labelHeadingText">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textSize">@dimen/age_calculator_heading_text_size</item>
+    </style>
+
+    <style name="labelText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/age_calculator_text_size</item>
+    </style>
+
+    <style name="valueText">
+        <item name="android:textSize">@dimen/age_calculator_text_size</item>
+    </style>
+
+    <style name="inputName">
+        <item name="android:digits">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:maxLength">25</item>
+        <item name="android:inputType">text|textCapSentences</item>
+    </style>
+</resources>
