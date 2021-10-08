@@ -15,8 +15,8 @@ How to build and run the project?
 - The project should build fine and you should be able to run the project.
 
 What is implemented in project?
-- When the application starts, user enter first name, last name and date of birth and click on Calculate age button
-- On the next screen user user can see firt name, last and age (in Years, Months and days format)
+- When the application starts, user enters first name, last name and date of birth and clicks on Calculate age button
+- On the next screen user can see firt name, last and age calculatin (in Years, Months and days format)
 
 # Demo
 
